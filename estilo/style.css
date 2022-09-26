@@ -63,7 +63,8 @@ section#redes-sociais img:hover {
 }
 
 @media (max-width: 550px) {
-    section#redes-sociais {        
+    section#redes-sociais {
+        margin: 20px;        
         flex-direction: row;
         flex-wrap: wrap;
         align-content: space-between;
