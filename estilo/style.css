@@ -66,7 +66,6 @@ section#redes-sociais img:hover {
     section#redes-sociais {
         flex-direction: row;
         flex-wrap: wrap;
-        align-content: space-between;
     }
 
     section#redes-sociais img {
